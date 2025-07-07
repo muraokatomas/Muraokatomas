@@ -1,12 +1,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
- -- Bienvenidos 
-  
-• Tecnico electronico 
 
-• Estudiante de Ingeniería en Informática
-
-• Apasionado por los datos, el análisis y la automatización  
+Hola soy Tomas ,estudiante de ingenieria en informatica  con orientacion de gestion empresarial combinando logica con datos para desarrollarme como Data Engineer comprometido con el aprendizaje continuo  y la superacion de nuevos desafios de esta rama ,actualmente estoy aprendiendo mysql 
 
 
 <h3 align="center">
