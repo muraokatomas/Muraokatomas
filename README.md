@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-  <img src="https://img.icons8.com/emoji/48/rainbow.png"/> Languages and Tools <img src="https://img.icons8.com/emoji/48/rainbow.png"/>
+  Languages and Tools 
 </h3>
 
 <div align="center">
