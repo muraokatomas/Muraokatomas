@@ -6,28 +6,25 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=haskell,py,cpp,notion" />
-  </a>
-</p>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=excel,tableu,powerbi" />
-  </a>
-</p>
+  <!-- Lenguajes -->
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="48" title="Haskell"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Prolog-logo.png" width="48" title="Prolog"/>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql" />
-  </a>
-</p>
+  <!-- Herramientas -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/>
+  <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL"/>
 
+  <!-- Otros -->
+  <img src="https://img.icons8.com/color/48/notion.png" title="Notion"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" title="VS Code"/>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  </a>
 </p>
 
 
