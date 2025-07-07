@@ -1,7 +1,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-Hola soy Tomas ,estudiante de ingenieria en informatica  con orientacion de gestion empresarial combinando logica con datos para desarrollarme como Data Engineer comprometido con el aprendizaje continuo  y la superacion de nuevos desafios de esta rama ,actualmente estoy aprendiendo mysql 
+Hola soy Tomas ,estudiante de ingenieria en informatica  con orientacion de gestion empresarial combinando logica con datos para desarrollarme como Data Engineer comprometido con el aprendizaje continuo  y la superacion de nuevos desafios de esta rama buscando oportunidades para aplicar mi conocimiento y contribuir a las soluciones tecnologicas ,actualmente estoy aprendiendo mysql 
 
 
 <h3 align="center">
