@@ -3,7 +3,9 @@
  -- Bienvenidos 
   
 • Tecnico electronico 
+
 • Estudiante de Ingeniería en Informática
+
 • Apasionado por los datos, el análisis y la automatización  
 
 
