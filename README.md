@@ -3,26 +3,11 @@
 
 
 <h3 align="center">
-  <span style="color:#ff0000">L</span>
-  <span style="color:#0000ff">a</span>
-  <span style="color:#ffff00">n</span>
-  <span style="color:#ff0000">g</span>
-  <span style="color:#0000ff">u</span>
-  <span style="color:#ffff00">a</span>
-  <span style="color:#ff0000">g</span>
-  <span style="color:#0000ff">e</span>
-  <span style="color:#ffff00">s</span>
-  <span> </span>
-  <span style="color:#ff0000">a</span>
-  <span style="color:#0000ff">n</span>
-  <span style="color:#ffff00">d</span>
-  <span> </span>
-  <span style="color:#ff0000">T</span>
-  <span style="color:#0000ff">o</span>
-  <span style="color:#ffff00">o</span>
-  <span style="color:#ff0000">l</span>
-  <span style="color:#0000ff">s</span>
+  🟥🟦🟨🟥🟦🟨🟥🟦🟨&nbsp;&nbsp;🟥🟦🟨&nbsp;&nbsp;🟥🟦🟨🟥🟦
 </h3>
+
+<p align="center"><strong>Languages and Tools</strong></p>
+
 
 <div align="center">
 
