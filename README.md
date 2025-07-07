@@ -1,10 +1,10 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
- <h3 align = "left">
- Acerca de mi 
-Tecnico electronico   
-Estudiante de Ingeniería en Informática  
- Apasionado por los datos, el análisis y la automatización  
+ -- Bienvenidos 
+ --- Acerca de mi ,Soy Tomas  
+-- Tecnico electronico   
+-- Estudiante de Ingeniería en Informática  
+-- Apasionado por los datos, el análisis y la automatización  
 
 <h3 align="center">
   Languages and Tools 
