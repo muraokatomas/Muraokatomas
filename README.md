@@ -15,7 +15,7 @@
 
 <!-- Fila 2 -->
 <p align="left">
- <img src="https://www.svgrepo.com/show/353498/power-bi.svg" width="48" title="Power BI"/>
+<img src="https://img.icons8.com/ios-filled/50/F2C811/power-bi.png" width="48" title="Power BI"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/>
 </p>
