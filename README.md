@@ -1,10 +1,11 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
  -- Bienvenidos 
- --- Acerca de mi ,Soy Tomas  
--- Tecnico electronico   
--- Estudiante de Ingeniería en Informática  
--- Apasionado por los datos, el análisis y la automatización  
+  
+• Tecnico electronico 
+• Estudiante de Ingeniería en Informática
+• Apasionado por los datos, el análisis y la automatización  
+
 
 <h3 align="center">
   Languages and Tools 
