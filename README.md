@@ -46,3 +46,7 @@
 </table>
 
 </div>
+
+## 📬 Contacto
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomás%20Muraoka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tomas-muraoka-894996243/)
+ --- ✉️ muraokatomas4@email.com  
