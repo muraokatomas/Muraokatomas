@@ -1,6 +1,10 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
+ <h3 align = "left">
+ Acerca de mi 
+Tecnico electronico   
+Estudiante de Ingeniería en Informática  
+ Apasionado por los datos, el análisis y la automatización  
 
 <h3 align="center">
   Languages and Tools 
@@ -48,5 +52,6 @@
 </div>
 
 ## 📬 Contacto
+- muraokatomas4@gmail.com
 - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomás%20Muraoka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tomas-muraoka-894996243/)
- --- ✉️ muraokatomas4@email.com  
+
