@@ -3,11 +3,8 @@
 
 
 <h3 align="center">
-  🟥🟦🟨🟥🟦🟨🟥🟦🟨&nbsp;&nbsp;🟥🟦🟨&nbsp;&nbsp;🟥🟦🟨🟥🟦
+  <img src="https://img.icons8.com/emoji/48/rainbow.png"/> Languages and Tools <img src="https://img.icons8.com/emoji/48/rainbow.png"/>
 </h3>
-
-<p align="center"><strong>Languages and Tools</strong></p>
-
 
 <div align="center">
 
