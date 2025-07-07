@@ -34,7 +34,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="48" title="Haskell"/>
       <img src="https://www.swi-prolog.org/icons/swipl.png" width="48" title="Prolog"/>
     </td>
-    <td><b>Lenguajes de programación</b></td>
+    <td><b> Lenguajes de programación  </b></td>
   </tr>
 
   <tr>
