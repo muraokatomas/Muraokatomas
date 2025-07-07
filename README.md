@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=haskell,py,prolog,cpp,notion" />
+    <img src="https://skillicons.dev/icons?i=haskell,py,cpp,notion" />
   </a>
 </p>
 
